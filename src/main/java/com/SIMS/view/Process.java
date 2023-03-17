@@ -90,6 +90,7 @@ public class Process {
                             System.out.println("删除成功");
                         } else {
                             System.out.println("出错了");
+                            System.out.println("  ");
                         }
 
                     } else if (op1.equals("3")) {
